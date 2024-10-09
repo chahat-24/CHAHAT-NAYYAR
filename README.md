@@ -28,7 +28,7 @@ Welcome to my GitHub profile! Here, you'll find a collection of projects that sh
 - When I'm not diving into data, I enjoy reading books, watching podcasts, and learning new things.
 
 ### 🔥 GitHub Stats:
-![Chahat's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Chahat Nayyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ### 📫 Let's connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
