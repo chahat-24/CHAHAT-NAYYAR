@@ -1,8 +1,6 @@
-# CHAHAT-NAYYAR
-PROFILE PAGE
 # Hi there! 👋 I'm Chahat Nayyar
 
-![GitHub followers](https://img.shields.io/github/followers/chahatnayyar?style=social) ![Profile Views](https://komarev.com/ghpvc/?username=chahatnayyar)
+![GitHub followers](https://img.shields.io/github/followers/chahat-24?style=social) ![Profile Views](https://komarev.com/ghpvc/?username=chahat-24)
 
 ### 🚀 Data Analyst | Master's in Computer Application
 
@@ -28,7 +26,7 @@ Welcome to my GitHub profile! Here, you'll find a collection of projects that sh
 - When I'm not diving into data, I enjoy reading books, watching podcasts, and learning new things.
 
 ### 🔥 GitHub Stats:
-![Chahat's GitHub stats](https://github-readme-stats.vercel.app/api?username=chahatnayyar&show_icons=true&theme=radical)
+![Chahat's GitHub stats](https://github-readme-stats.vercel.app/api?username=chahat-24&show_icons=true&theme=radical)
 
 ### 📫 Let's connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
